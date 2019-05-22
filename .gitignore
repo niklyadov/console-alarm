@@ -1,2 +1,8 @@
 config.txt
-alarm.txt
+alarms.txt
+adjuncts.txt
+ancshell_.pdb
+ConsoleAlarm64.exe.config
+ConsoleAlarm64.pdb
+extcon.pdb
+lastlog.txt
